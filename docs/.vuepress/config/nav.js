@@ -20,11 +20,11 @@ const nav = [
       },
       {
         text: '简历',
-        link: 'https://twitchboy.github.io/resume/'
+        link: 'https://juntingliu.github.io/resume/'
       }
     ]
   },
-  { text: 'GitHub', link: 'https://github.com/Twitchboy' }
+  { text: 'GitHub', link: 'https://github.com/JuntingLiu' }
 ];
 
 module.exports = nav;
