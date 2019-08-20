@@ -35,7 +35,11 @@ const sidebar = {
     {
       title: '深入理解 ES6',
       children: [
-        '/books/understanding-es6/01-Block-Bindings'
+        '/books/understanding-es6/01-Block-Bindings',
+        '/books/understanding-es6/02-Strings-and-Regular-Expressions',
+        '/books/understanding-es6/03-Functions',
+        '/books/understanding-es6/04-Objects',
+        '/books/understanding-es6/05-Destructuring'
       ]
     }
   ],
